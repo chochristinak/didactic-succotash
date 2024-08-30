@@ -1,4 +1,5 @@
-export default function Main() {
+export default function Main(props) {
+    const { data } = props
     return(
         <div>
           <div className="imgContainer">

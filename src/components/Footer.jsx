@@ -1,4 +1,6 @@
-export default function Footer(){
+export default function Footer(props){
+    const { showModal, handleToggleModal, data } = props
+    
     return(
         <footer>
             <footer>
