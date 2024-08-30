@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-      <Sidebar>asdf</Sidebar>
-      <Main />
-      <Footer />
+    <Main />
+    <Sidebar>asdf</Sidebar>
+    <Footer />
     </>
   )
 }
